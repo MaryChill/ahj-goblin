@@ -1,0 +1,23 @@
+body {
+    color: #999;
+    margin: 20px auto;
+}
+.field {
+    width: 750px;
+    display: flex;
+    flex-wrap: wrap;
+    cursor: url('../img/knife.svg');
+
+
+}
+.item {
+    width: 150px;
+    height: 150px;
+    margin: 0 3px 6px;
+    background-color: #f070a5;
+}
+.goblin {
+  background-image: url('../img/goblin.png');
+  background-repeat: no-repeat;
+  background-position: center;
+}
