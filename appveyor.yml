@@ -4,7 +4,7 @@ stack: node 16 # окружение
 
 branches:
   only:
-    - ajs-env # ветка git
+    - ahj-env # ветка git
 
 cache: node_modules # кеширование
 
